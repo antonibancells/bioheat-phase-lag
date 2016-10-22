@@ -1,2 +1,2 @@
-# bioheat-phase-lag
-Simulation of 1D bioheat equation with phase-lag using Python
+# smart-thermograh
+Analysis of thermography images from human body in order to know the effects of physical therapies, for example diathermy.
